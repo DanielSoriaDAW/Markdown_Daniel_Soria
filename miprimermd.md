@@ -1,14 +1,15 @@
-# Prueba de estilos de Markdown
+# Prueba de estilos de Markdown de Daniel Soria
 ## Vamos a probarlos con un lore ipsum
 
 **lore ipsum dolor** *sit amet* `consectetur adipiscing elit`
 
 ```
-php
+<?php
 $variable = 2;
 $variable2 = "string";
 
 echo "La primera variables es un $variable y la seguna es un $variable2";
+?>
 ```
 
 1. Escribimos la sintaxis para que aparezca la lista ordenada
